@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineBack", "CineBack.csproj", "{021118D3-4B4C-4BDC-B509-36623C81CECA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineAPI", "..\CineAPI\CineAPI.csproj", "{16228FB4-E6CF-4F87-A7A5-E64DE5753042}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineFront", "..\CineFront\CineFront.csproj", "{0D26CC0F-E15C-43A4-828E-9757B4DA76A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{021118D3-4B4C-4BDC-B509-36623C81CECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021118D3-4B4C-4BDC-B509-36623C81CECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021118D3-4B4C-4BDC-B509-36623C81CECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021118D3-4B4C-4BDC-B509-36623C81CECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16228FB4-E6CF-4F87-A7A5-E64DE5753042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16228FB4-E6CF-4F87-A7A5-E64DE5753042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16228FB4-E6CF-4F87-A7A5-E64DE5753042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16228FB4-E6CF-4F87-A7A5-E64DE5753042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D26CC0F-E15C-43A4-828E-9757B4DA76A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D26CC0F-E15C-43A4-828E-9757B4DA76A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D26CC0F-E15C-43A4-828E-9757B4DA76A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D26CC0F-E15C-43A4-828E-9757B4DA76A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CFE2751-D233-4063-A028-FF594806632A}
+	EndGlobalSection
+EndGlobal
